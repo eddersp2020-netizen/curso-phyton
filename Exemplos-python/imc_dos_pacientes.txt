@@ -1,0 +1,12 @@
+Nome do Paciente: Joao Cesar
+Peso do Pacinte: 95.0
+Altura do Paciente: 1.75
+Nome do Paciente: Joao Cesar
+Peso do Pacinte: 95.0
+Altura do Paciente: 1.75
+Nome do Paciente: Joao
+Peso do Pacinte: 97.0
+Altura do Paciente: 1.78
+Nome do Paciente: Joao Silva
+Peso do Pacinte: 96.0
+Altura do Paciente: 1.76

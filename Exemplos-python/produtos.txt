@@ -1,0 +1,2 @@
+Produto: oculos | Fabricante: Oakley | Categoria: Acessórios | Preço: 750.00 
+Produto: Biscoito | Fabricante: Waffer | Categoria: alkmento | Preço: 4.50 

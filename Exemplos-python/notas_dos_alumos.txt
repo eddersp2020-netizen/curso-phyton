@@ -1,0 +1,21 @@
+Nome do Aluno: Joao Silva
+Nota 01: 4.0
+Nota 02: 2.0
+Nota 03: 3.0
+Média do aluno: 3.0
+Situação do aluno: Reprovado
+========================================================= 
+Nome do Aluno: Ana Beatriz
+Nota 01: 10.0
+Nota 02: 8.0
+Nota 03: 7.0
+Média do aluno: 8.333333333333334
+Situação do aluno: Aprovado
+========================================================= 
+Nome do Aluno: Carlos Bruno
+Nota 01: 6.0
+Nota 02: 5.0
+Nota 03: 4.0
+Média do aluno: 5.0
+Situação do aluno: Recuperação
+========================================================= 
